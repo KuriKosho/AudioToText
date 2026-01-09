@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Audio Transcriber & AI Assistant",
+  "description": "An advanced tool to transcribe audio files, format transcripts, generate reports, summarize, and intelligently fill in missing ideas using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
